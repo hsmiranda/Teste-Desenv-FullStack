@@ -4,7 +4,7 @@ Quando finalizar o teste, publique tudo no seu [Github](https://github.com) de m
 
 ## Backend
 
-Desenvolver uma **API JSON RESTful** em **Java**, utilizando ***Quarkus ou Spring boot*, com os métodos (`GET`, `POST`, `PUT`, `DELETE`).
+Desenvolver uma **API JSON RESTful** em **Java**, utilizando *Quarkus ou Spring boot*, com os métodos (`GET`, `POST`, `PUT`, `DELETE`).
 Salvar dados em um banco de dados MySQL, utilizando **JPA**.
 
 ### Especificação
