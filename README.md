@@ -81,4 +81,4 @@ Você poderá utilizar bootstrap para auxiliar no desenvolvimento da interface, 
 
 ## Dúvida
 
-Se tiver qualquer dúvida sobre esse teste, envie um email com o título `[Teste Full Stack Node.js] O assunto que vc deseja` para vagas@oncar.com.br
+Se tiver qualquer dúvida sobre esse teste, envie um email.
