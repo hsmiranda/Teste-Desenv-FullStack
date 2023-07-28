@@ -19,7 +19,7 @@ descricao: String
 vendido:   boolean
 created:   datetime
 updated:   datetime
-cassi:     String
+chassi:     String
 preco:     ??? (Escolha livre)
 ```
 
