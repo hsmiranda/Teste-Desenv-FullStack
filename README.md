@@ -2,6 +2,15 @@
 
 Quando finalizar o teste, publique tudo no seu [Github](https://github.com) de modo público e envie por email com o título `[Teste Full Stack] Finalizado` para o organizador.
 
+Criterios de avaliação:
+
+1. Conhecimento sobre a stack de tecnologia da avaliação.
+2. Cuidados com as regras de negócio
+3. Aplicação de principios SOLID e Clean Code.
+4. O uso de padrões de projeto e designer patterns
+5. O uso de boas práticas de programação.
+6. Código seguro com a aplicação do principio Zero Trust.
+
 ## Backend
 
 Desenvolver uma **API JSON RESTful** em **Java**, utilizando os frameworks *Quarkus ou Spring boot*, com os métodos (`GET`, `POST`, `PUT`, `DELETE`).
