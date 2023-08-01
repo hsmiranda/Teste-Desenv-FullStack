@@ -26,8 +26,8 @@ marca:     string
 ano:       integer
 descricao: String
 vendido:   boolean
-created:   datetime
-updated:   datetime
+created:   ??? (Escolha livre)
+updated:   ??? (Escolha livre)
 chassi:     String
 preco:     ??? (Escolha livre)
 ```
