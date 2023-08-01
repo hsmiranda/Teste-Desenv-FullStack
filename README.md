@@ -9,7 +9,7 @@ Criterios de avaliação:
 3. Aplicação de principios SOLID e Clean Code.
 4. O uso de padrões de projeto e designer patterns
 5. O uso de boas práticas de programação.
-6. Código seguro com a aplicação do principio Zero Trust.
+6. Código seguro com a aplicação traba;lhando com o principio Zero Trust.
 
 ## Backend
 
