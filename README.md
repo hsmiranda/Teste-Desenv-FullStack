@@ -10,6 +10,7 @@ Criterios de avaliação:
 4. O uso de padrões de projeto e designer patterns.
 5. O uso de boas práticas de programação.
 6. Código seguro com a aplicação trabalhando com o principio Zero Trust.
+7. O sistema deverá conter o Dockerfile e docker-compose para execução da aplicação.
 
 ## Backend
 
@@ -101,5 +102,5 @@ As regras de negocio podem ser implementadas no backend, frontend ou em ambos fi
 - RN001 - Não pode haver veiculos com o mesmo numero de chassi.
 - RN002 - O sistema não deve permite preços negativos.
 - RN003 - O sistema não deve permitir que veiculos tenham no cadastro ou atualização, ano supeior ao corrente, por exemplo: o ano atual é 2023 e um veiculo estão tentando cadastrar com o ano 2024.
-- RN004 - A bvusca deverá exibir até no máximo 5 resultados por vez, ou seja deve paginar de 5 em 5 os resultados.
+- RN004 - A bvusca deverá exibir até no máximo 10 resultados por vez.
 - RN005 - O sistema deve ser seguro, não permitindo que códigos maliciosos sejam inseridos no meio dos textos.
