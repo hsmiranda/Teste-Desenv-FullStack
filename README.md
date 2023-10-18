@@ -14,7 +14,7 @@ Criterios de avaliação:
 
 ## Backend
 
-Desenvolver uma **API JSON RESTful** em **Java**, utilizando os frameworks *Quarkus ou Spring boot*, com os métodos (`GET`, `POST`, `PUT`, `DELETE`).
+Desenvolver uma **API JSON RESTful** em **Java**, utilizando os frameworks *Quarkus ou Spring*, com os métodos (`GET`, `POST`, `PUT`, `DELETE`).
 Salvar dados em um banco de dados MySQL ou PostgreSQL e utilizando **JPA**.
 
 ### Especificação
