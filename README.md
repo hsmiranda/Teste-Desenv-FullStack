@@ -102,5 +102,5 @@ As regras de negocio podem ser implementadas no backend, frontend ou em ambos fi
 - RN001 - Não pode haver veiculos com o mesmo numero de chassi.
 - RN002 - O sistema não deve permite preços negativos.
 - RN003 - O sistema não deve permitir que veiculos tenham no cadastro ou atualização, ano supeior ao corrente, por exemplo: o ano atual é 2023 e um veiculo estão tentando cadastrar com o ano 2024.
-- RN004 - A bvusca deverá exibir até no máximo 10 resultados por vez.
+- RN004 - A busca deverá exibir até no máximo 10 resultados por vez.
 - RN005 - O sistema deve ser seguro, não permitindo que códigos maliciosos sejam inseridos no meio dos textos.
