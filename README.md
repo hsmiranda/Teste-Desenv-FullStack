@@ -7,7 +7,7 @@ Criterios de avaliação:
 1. Conhecimento sobre a stack de tecnologia da avaliação.
 2. Cuidados com as regras de negócio.
 3. Aplicação de principios SOLID e Clean Code.
-4. O uso de padrões de projeto e designer patterns.
+4. O uso de padrões de projeto e design patterns.
 5. O uso de boas práticas de programação.
 6. Código seguro com a aplicação trabalhando com o principio Zero Trust.
 7. O sistema deverá conter o Dockerfile e docker-compose para execução da aplicação.
